@@ -22,8 +22,8 @@ My research interests include **computation offloading**, **reinforcement learni
 
 # 🔥 News
 - *2025.03* &nbsp;🎉 I win The Excellent Master's Dissertation Award of Anhui Province in 2024. 
-- *2024.05* &nbsp;🎉 One paper is accepted by IEEE TETC. 
-- *2022.07* &nbsp;🎉 One paper is accepted by IEEE TCSS. <a href='https://scholar.google.com/citations?user=-ivrtnoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+- *2024.05* &nbsp;🎉 One paper is accepted by IEEE TETC.
+- *2022.07* &nbsp;🎉 One paper is accepted by IEEE TCSS.
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=-ivrtnoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
