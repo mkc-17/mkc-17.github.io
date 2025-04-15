@@ -27,12 +27,12 @@ My research interests include **computation offloading**, **reinforcement learni
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=-ivrtnoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-- <span class='paper-badge'>IEEE TETC</span> **Fair Influence Maximization in Social Networks: A Community-Based Evolutionary Algorithm**<br>
+- <span class='paper-badge'>TETC</span> **Fair Influence Maximization in Social Networks: A Community-Based Evolutionary Algorithm**<br>
 *<u><b>Kaicong Ma</b></u>, Xinxiang Xu, Haipeng Yang, Renzhi Cao, Lei Zhang*<br>
 *IEEE Transactions on Emerging Topics in Computing*, 2025<br>
 <span class='paper-asset'><a href="https://ieeexplore.ieee.org/abstract/document/10542566">PDF</a></span>
 
-- <span class='paper-badge'>IEEE TCSS</span> **A Search Space Reduction-Based Progressive Evolutionary Algorithm for Influence Maximization in Social Networks**<br>
+- <span class='paper-badge'>TCSS</span> **A Search Space Reduction-Based Progressive Evolutionary Algorithm for Influence Maximization in Social Networks**<br>
 *Lei Zhang, <u><b>Kaicong Ma</b></u>, Haipeng Yang, Cheng Zhang, Haiping Ma, Qi Liu*<br>
 *IEEE Transactions on Computational Social Systems*, 2023<br>
 <span class='paper-asset'><a href="https://ieeexplore.ieee.org/abstract/document/9829335">PDF</a></span>
